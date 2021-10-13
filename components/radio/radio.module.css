@@ -1,0 +1,11 @@
+.radio-group {
+  display: grid;
+  background: #f1ebf1bf;
+  padding: 1rem 1rem;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 2rem;
+}
+.radio-group > div {
+  display: flex;
+  align-items: center;
+}

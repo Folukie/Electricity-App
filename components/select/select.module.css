@@ -1,0 +1,12 @@
+
+.selection > select,
+.selection > select > option {
+    border: none;
+    background: #f1ebf1bf;
+    padding: 15px 30px;
+    font-size: 14px;
+    color: #842a84;
+}
+.selection > select:focus-visible{
+    outline: 2px solid #b575b5bf;
+}

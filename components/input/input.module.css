@@ -1,0 +1,15 @@
+.input{
+    border: 0;
+    border-bottom: 1px solid purple;
+    padding: 10px ;
+}
+.input::placeholder{
+    font-size: 14px;
+    font-weight: 500;
+    color: purple;
+}
+.input:focus-visible{
+    outline: 2px solid #b575b5bf;
+    border-radius: 3px;
+
+}
